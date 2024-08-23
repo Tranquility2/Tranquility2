@@ -1,5 +1,7 @@
 :candle: Stay a while, and listen
 
+# Hi, I'm Roy👋
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -37,12 +39,18 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tranquility2&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&line_height=27" />
 </a>
 
+<br>
+
+<!--
 [website]: https://tranquility2.github.io/
 [linkedin]: https://www.linkedin.com/
 <br>
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
+-->
+
 <br>
 
-![pv](https://pageview.vercel.app/?github_user=Tranquility2) 
+<a href="https://tranquility2.github.io/" ><img src="https://img.shields.io/badge/website-f59042&logoColor=white" align="center" /></a> 
+<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white" align="center" /></a> 

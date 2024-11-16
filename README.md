@@ -1,6 +1,3 @@
-:candle: Stay a while, and listen
-
-# Hi, I'm Roy👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -13,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## **Languages and Tools**
+# **Languages and Tools**
 <p align="left"> 
 
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -35,7 +32,7 @@
 </p>
 
 
-## **GitHub Statistics**
+# **GitHub Statistics**
 <a href="https://github.com/Tranquility2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranquility2&theme=dracula&hide_langs_below=1" />
 </a>

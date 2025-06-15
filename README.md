@@ -31,14 +31,13 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a> 
 </p>
 
-
 # **GitHub Statistics**
 <a href="https://github.com/Tranquility2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranquility2&theme=dracula&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tranquility2&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&rank_icon=github&theme=dark#gh-dark-mode-only" />
 </a>
 
 <a href="https://github.com/Tranquility2">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tranquility2&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranquility2&theme=dark#gh-dark-mode-only" />
 </a>
 
 <br>

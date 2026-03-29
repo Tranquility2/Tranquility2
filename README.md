@@ -33,8 +33,8 @@
 
 # **GitHub Statistics**
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranquility2&theme=dark#gh-dark-mode-only" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tranquility2&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&rank_icon=github&theme=dark#gh-dark-mode-only" />
+<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tranquility2&theme=dark#gh-dark-mode-only" />
+<img align="center" src="https://github-readme-stats.shion.dev/api?username=Tranquility2&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&rank_icon=github&theme=dark#gh-dark-mode-only" />
 </p>
 
 

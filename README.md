@@ -10,6 +10,16 @@
 - ⚡ Fun fact: ...
 -->
 
+# **About Me**
+Hey! 👋 I'm a software engineer with 14 years of experience who's journeyed all the wayfrom writing Linux drivers 🐧 to building robust backend services and cloud infrastructure ☁️.
+
+Python is my go-to language 🐍, and I've spent most of my career designing scalable systems,developer tooling, and backend solutions on GCP, AWS, and now even Azure!
+
+I genuinely care about clean architecture, efficient workflows, and helping others grow. Mentorship is something close to my heart 🤝.
+
+Outside of work, you'll find me tinkering with game development in Godot 🎮 or designing Factorio-inspired crafting systems, because good engineering is good engineering, no matter the domain! 🚀
+
+
 # **Languages and Tools**
 <table>
   <tr>
@@ -53,9 +63,6 @@
 <img align="center" src="https://github-readme-stats.shion.dev/api?username=Tranquility2&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&rank_icon=github&theme=dark#gh-dark-mode-only" />
 </p>
 
-
-<br>
-
 <!--
 [website]: https://tranquility2.github.io/
 [linkedin]: https://www.linkedin.com/
@@ -65,7 +72,7 @@
 👔 [linkedin][linkedin]
 -->
 
-<br>
+---
 
 🏡 <a href="https://tranquility2.github.io/" ><img src="https://img.shields.io/badge/website-f59042&logoColor=white" align="center" /></a>  
 👔 <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white" align="center" /></a> 
